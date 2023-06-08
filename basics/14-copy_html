@@ -1,2 +1,2 @@
 #!/bin/bash
-rsync -u .hmtl
+cp -u *.html ..
